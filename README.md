@@ -1,2 +1,2 @@
 # personal-folio
-My first web resume
+My first bootstrap web resume
